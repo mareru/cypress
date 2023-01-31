@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  Fast, easy and reliable testing for anything that runs in a browser. Mj yes
+  Fast, easy and reliable testing for anything that runs in a browser.
 </p>
 <p align="center">
   Join us, we're <a href="https://cypress.io/jobs">hiring</a>.
